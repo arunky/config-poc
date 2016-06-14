@@ -5,5 +5,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 server:
   port: 2512   # HTTP (Tomcat) port
-good:
-  result:won
+which: In the development mode
