@@ -6,4 +6,4 @@ eureka:
 server:
   port: 2512   # HTTP (Tomcat) port
 good:
-  won
+  result:won
