@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://172.25.68.229:8761/eureka/
 server:
   port: 2512   # HTTP (Tomcat) port
-message: Config demo works 
+message: Config demo  
